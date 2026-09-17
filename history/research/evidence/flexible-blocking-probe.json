@@ -1,0 +1,54 @@
+{
+  "oracle_instances": 584,
+  "solver_queries": 1168,
+  "flexible_profiles": 243,
+  "prefix_lengths": [
+    1,
+    6
+  ],
+  "maximum_pareto_front": 2,
+  "suffix_counterexample": {
+    "operation_times": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "modes": [
+      [
+        2,
+        1,
+        1
+      ],
+      [
+        1,
+        3,
+        1
+      ]
+    ],
+    "prefix_length": 1,
+    "prefix_best": [
+      [
+        2,
+        3,
+        4
+      ]
+    ],
+    "other_state": [
+      1,
+      4,
+      5
+    ],
+    "other_choices": [
+      1
+    ],
+    "suffix": [
+      3,
+      1,
+      1
+    ],
+    "restricted_finish": 7,
+    "optimal_finish": 6
+  }
+}

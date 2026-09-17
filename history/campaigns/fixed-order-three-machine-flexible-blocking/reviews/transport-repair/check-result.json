@@ -1,0 +1,20 @@
+{
+  "large_integer_cases": [
+    {
+      "digits": 4301,
+      "recovered": 2
+    },
+    {
+      "digits": 4300,
+      "recovered": 2
+    },
+    {
+      "digits": 6001,
+      "recovered": 2
+    }
+  ],
+  "recoveries": 6,
+  "malformed_forward_cases": 8,
+  "malformed_extraction_failures": 3,
+  "invalid_cli_failure": true
+}
