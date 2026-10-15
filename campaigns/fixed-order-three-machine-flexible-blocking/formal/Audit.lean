@@ -1,0 +1,3 @@
+import Challenge
+#print axioms FixedOrderThreeMachineFlexibleBlocking.Goal
+#print axioms FixedOrderThreeMachineFlexibleBlocking.solve

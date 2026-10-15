@@ -1,0 +1,6 @@
+⚠ [1266/1271] Built Challenge (763ms)
+warning: Challenge.lean:94:8: declaration uses `sorry`
+⚠ [1268/1271] Built Solution (765ms)
+warning: Solution.lean:94:8: declaration uses `sorry`
+✔ [1270/1271] Built Tests (977ms)
+Build completed successfully (1271 jobs).
