@@ -1,0 +1,7 @@
+{
+  "source_instances": 340,
+  "target_assignments": 69904,
+  "recovered_witnesses": 340,
+  "oracle_instances": 36,
+  "solver_queries": 72
+}

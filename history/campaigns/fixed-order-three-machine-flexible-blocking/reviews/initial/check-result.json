@@ -1,0 +1,26 @@
+{
+  "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "sources": 7,
+  "assignments": 628,
+  "recovered": 10,
+  "integer_transport_probes": [
+    {
+      "stage": "parse",
+      "decimal_digits": 4301,
+      "exit": 1,
+      "error": "ValueError: Exceeds the limit (4300 digits) for integer string conversion: value has 4301 digits; use sys.set_int_max_str_digits() to increase the limit"
+    },
+    {
+      "stage": "serialize",
+      "decimal_digits": 4300,
+      "exit": 1,
+      "error": "ValueError: Exceeds the limit (4300 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit"
+    },
+    {
+      "stage": "recovery_parse",
+      "decimal_digits": 4301,
+      "exit": 1,
+      "error": "ValueError: Exceeds the limit (4300 digits) for integer string conversion: value has 4301 digits; use sys.set_int_max_str_digits() to increase the limit"
+    }
+  ]
+}
